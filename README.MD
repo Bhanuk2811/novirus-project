@@ -2,7 +2,7 @@
 
 NoVirus is a modern cybersecurity application with antivirus and VPN capabilities, built with Next.js and React.
 
-![NoVirus Dashboard](https://placeholder.svg?height=400&width=800)
+![NoVirus Dashboard](image.svg?height=400&width=800)
 
 ## Features
 
@@ -60,9 +60,6 @@ Before you begin, ensure you have the following installed:
    - Create a new file in the root directory named `.env.local`
    - Add the following variables:
    \`\`\`
-   PURE_VPN_API_KEY=your_purevpn_api_key
-   PURE_VPN_USERNAME=your_purevpn_username
-   PURE_VPN_PASSWORD=your_purevpn_password
    OPENVPN_API_HOST=https://your-openvpn-server.com
    OPENVPN_API_USERNAME=your_openvpn_username
    OPENVPN_API_PASSWORD=your_openvpn_password
