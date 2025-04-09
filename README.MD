@@ -2,7 +2,7 @@
 
 NoVirus is a modern cybersecurity application with antivirus and VPN capabilities, built with Next.js and React.
 
-![NoVirus Dashboard](image.svg?height=400&width=800)
+![NoVirus Dashboard](image.png?height=400&width=800)
 
 ## Features
 
